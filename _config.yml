@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Haotian Xia"
 title_separator          : "-"
 name                     : &name "Haotian Xia"
 description              : &description "personal description"
