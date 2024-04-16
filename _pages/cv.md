@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,54 +10,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Statistics, University of California, Irvine, 2025 (expected)
+* B.S. in Computer Science, University of California, Santa Barbara, 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2024: Incoming Visiting Student
+  * Chili Lab @ Rice University
+  * Supervisor: [Hanjie Chen](https://hanjiechen.github.io/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sept 2022 - present: Research Assistant
+  * Sports Analytics
+  * Supervisor: [Yuan-Fang Wang](https://engineering.ucsb.edu/people/yuan-fang-wang), [Weining Shen](https://faculty.sites.uci.edu/weinings/)
+  
+* Jun 2022 - Sept 2022: Summer Intern
+  * Data Scientist Intern @ Uber
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* May 2020 - Sept 2022: Research Assistant
+  * The Petzold Research Group @ UCSB
+  * Supervisor: [Linda Petzold](https://engineering.ucsb.edu/people/linda-petzold)
 
-Publications
+* Jun 2021 - Sept 2021: Summer Intern
+  * Data Analyst Intern @ Uber
+
+* Jun 2019 - Sept 2019: Summer Intern
+  * Data Analyst Intern @ DiDi
+
+
+Misc.
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Spet 2018 - June 2022: Intercollegiate Athlete
+  * Member of NCAA Divsion 1 Men's Volleyball Team at UCSB
