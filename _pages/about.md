@@ -13,4 +13,4 @@ I enjoy gaming and playing sports. I have been played volleyball for 17 years an
 
 If you want to dicuss sports analytics research with me, feel free to write me an email.  
 
- <img src='/images/voll.jpg' width = "700"/> 
+ <img src='/images/voll.JPG' width = "700"/> 
