@@ -40,4 +40,4 @@ Work experience
 Misc.
 ======
 * Spet 2018 - June 2022: Intercollegiate Athlete
-  * Member of NCAA Divsion 1 Men's Volleyball Team at UCSB
+  * Member of NCAA Division 1 Men's Volleyball Team at UCSB
