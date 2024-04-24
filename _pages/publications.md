@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **[SportQA: A Benchmark for Sports Understanding in Large Language Models](https://arxiv.org/abs/2402.15862)**
-**Haotian Xia**, Zhengbang Yang, Yuqing Wang, Rhys Tracy, Yun Zhao, Dongdong Huang, Zezhi Chen, Yan Zhu, Yuan-fang Wang, Weining Shen, *2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics.* **NAACL 2024.**
+**Haotian Xia**, Zhengbang Yang, Yuqing Wang, Rhys Tracy, Yun Zhao, Dongdong Huang, Zezhi Chen, Yan Zhu, Yuan-fang Wang, Weining Shen, *2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics.* **NAACL 2024 (Oral).** 
 
 **[Advanced Volleyball Stats for All Levels: Automatic Setting Tactic Detection and Classification with a Single Camera](https://arxiv.org/abs/2309.14753)**
 **Haotian Xia**, Rhys Tracy, Yun Zhao, Yuqing Wang, Yuan-Fang Wang, Weining Shen, *2023 IEEE International Conference on Data Mining Workshops.* **ICDMW 2023.**
