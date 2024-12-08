@@ -15,11 +15,11 @@ Education
 
 Work experience
 ======
-* Summer 2024: Incoming Visiting Student
+* June 2024 - Present: Visiting Student
   * Chili Lab @ Rice University
   * Supervisor: [Hanjie Chen](https://hanjiechen.github.io/)
 
-* Sept 2022 - present: Research Assistant
+* Sept 2022 - Present: Research Assistant
   * Sports Analytics
   * Supervisor: [Yuan-Fang Wang](https://engineering.ucsb.edu/people/yuan-fang-wang), [Weining Shen](https://faculty.sites.uci.edu/weinings/)
   
