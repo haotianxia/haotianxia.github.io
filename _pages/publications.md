@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+**[SportU: A Comprehensive Sports Understanding Benchmark for Multimodal Large Language Models](https://arxiv.org/abs/2410.08474)**
+**Haotian Xia**, Zhengbang Yang, Junbo Zou, Rhys Tracy, Yuqing Wang, Chi Lu, Christopher Lai, Yanjun He, Xun Shao, Yuan-fang Wang, Weining Shen, Hanjie Chen, **Preprint**
+
+**[Language and Multimodal Models in Sports: A Survey of Datasets and Applications](https://arxiv.org/abs/2406.12252)**
+**Haotian Xia**, Zhengbang Yang, Yun Zhao, Yuqing Wang, Jingxi Li, Rhys Tracy, Zhuangdi Zhu, Yuan-fang Wang, Hanjie Chen, Weining Shen, **Preprint**
+
 **[SportQA: A Benchmark for Sports Understanding in Large Language Models](https://arxiv.org/abs/2402.15862)**
 **Haotian Xia**, Zhengbang Yang, Yuqing Wang, Rhys Tracy, Yun Zhao, Dongdong Huang, Zezhi Chen, Yan Zhu, Yuan-fang Wang, Weining Shen, *2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics.* **NAACL 2024. (Oral)** 
 
