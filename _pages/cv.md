@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Statistics, University of California, Irvine, 2025 (expected)
+* M.S. in Statistics, University of California, Irvine, 2025
 * B.S. in Computer Science, University of California, Santa Barbara, 2023
 
 Work experience
