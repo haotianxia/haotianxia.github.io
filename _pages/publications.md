@@ -11,7 +11,7 @@ Christopher Lai, Jason Mo, **Haotian Xia**, Yuan-fang Wang, **Preprint**
 **[Language and Multimodal Models in Sports: A Survey of Datasets and Applications](https://arxiv.org/abs/2406.12252)**
 **Haotian Xia**, Zhengbang Yang, Yun Zhao, Yuqing Wang, Jingxi Li, Rhys Tracy, Zhuangdi Zhu, Yuan-fang Wang, Hanjie Chen, Weining Shen, **Preprint**
 
-**[SportU: A Comprehensive Sports Understanding Benchmark for Multimodal Large Language Models](https://arxiv.org/abs/2410.08474)**
+**[SPORTU: A Comprehensive Sports Understanding Benchmark for Multimodal Large Language Models](https://arxiv.org/abs/2410.08474)**
 **Haotian Xia**, Zhengbang Yang, Junbo Zou, Rhys Tracy, Yuqing Wang, Chi Lu, Christopher Lai, Yanjun He, Xun Shao, Yuan-fang Wang, Weining Shen, Hanjie Chen, *The Thirteenth International Conference on Learning Representations.* **ICLR 2025**.
 
 **[FinEval: A Chinese Financial Domain Knowledge Evaluation Benchmark for Large Language Models](https://aclanthology.org/2025.naacl-long.318/)**
