@@ -15,7 +15,7 @@ Christopher Lai, Jason Mo, **Haotian Xia**, Yuan-fang Wang, **Preprint**
 **Haotian Xia**, Zhengbang Yang, Junbo Zou, Rhys Tracy, Yuqing Wang, Chi Lu, Christopher Lai, Yanjun He, Xun Shao, Yuan-fang Wang, Weining Shen, Hanjie Chen, *The Thirteenth International Conference on Learning Representations.* **ICLR 2025**.
 
 **[FinEval: A Chinese Financial Domain Knowledge Evaluation Benchmark for Large Language Models](https://aclanthology.org/2025.naacl-long.318/)**
-Xin Guo<sup>*</sup>, **Haotian Xia** <sup>*</sup>, Zhaowei Liu <sup>*</sup>, Hanyang Cao, Zhi Yang, Zhiqiang Liu, Sizhe Wang, Jinyi Niu, Chuqi Wang, Yanhui Wang, Xiaolong Liang, Xiaoming Huang, Bing Zhu, Zhongyu Wei, Yun Chen, Weining Shen, Liwen Zhang, *2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics.* **NAACL 2025**.
+Xin Guo, **Haotian Xia**, Zhaowei Liu, Hanyang Cao, Zhi Yang, Zhiqiang Liu, Sizhe Wang, Jinyi Niu, Chuqi Wang, Yanhui Wang, Xiaolong Liang, Xiaoming Huang, Bing Zhu, Zhongyu Wei, Yun Chen, Weining Shen, Liwen Zhang, *2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics.* **NAACL 2025**.
 
 **[SportQA: A Benchmark for Sports Understanding in Large Language Models](https://arxiv.org/abs/2402.15862)**
 **Haotian Xia**, Zhengbang Yang, Yuqing Wang, Rhys Tracy, Yun Zhao, Dongdong Huang, Zezhi Chen, Yan Zhu, Yuan-fang Wang, Weining Shen, *2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics.* **NAACL 2024. (Oral)** 
