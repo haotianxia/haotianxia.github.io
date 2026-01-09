@@ -7,10 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Haotian Xia (夏浩天). I am an incoming PhD Student in Computer Science at Rice University, advised by Prof. [Hanjie Chen](https://hanjiechen.github.io/) in the Chili Lab. My research interests lie in natural language processing (NLP), multimodal AI, and sports analytics. I earned my master’s degree in Statistics at the University of California, Irvine, where I was fortunate to be advised by Prof. [Weining Shen](https://faculty.sites.uci.edu/weinings/). Prior to UCI, I completed my bachelor’s degree with Distinction in Computer Science at the University of California, Santa Barbara, where I was advised by Prof. [Yuan-Fang Wang](https://engineering.ucsb.edu/people/yuan-fang-wang) and Prof. [Linda Petzold](https://engineering.ucsb.edu/people/linda-petzold). 
+Hello! My name is Haotian Xia (夏浩天). I am a first-year PhD student in Computer Science at Rice University, advised by Prof. [Hanjie Chen](https://hanjiechen.github.io/) in the Chili Lab. My research interests focus on Vision-Language Models (VLMs), specifically grounding and reasoning, as well as sports analytics in multimodal large language models. I earned my master's degree in Statistics at the University of California, Irvine, where I was fortunate to be advised by Prof. [Weining Shen](https://faculty.sites.uci.edu/weinings/). Prior to UCI, I completed my bachelor's degree with Distinction in Computer Science at the University of California, Santa Barbara, where I was advised by Prof. [Yuan-Fang Wang](https://engineering.ucsb.edu/people/yuan-fang-wang) and Prof. [Linda Petzold](https://engineering.ucsb.edu/people/linda-petzold). 
 
 I enjoy sports. I started playing volleyball at the age of seven and later competed as an NCAA Division I student-athlete on the UCSB Men’s Volleyball Team with an athletic scholarship. I am also recognized as a National Level Athlete (国家一级运动员) in China.
 
 If you’d like to discuss sports analytics research, feel free to email me.
+
+
 
  ![voll](/images/voll.png)
