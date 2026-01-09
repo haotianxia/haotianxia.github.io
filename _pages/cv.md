@@ -10,18 +10,23 @@ redirect_from:
 
 Education
 ======
+* Ph.D. in Computer Science, Rice University, 2025 - Present
 * M.S. in Statistics, University of California, Irvine, 2025
 * B.S. in Computer Science, University of California, Santa Barbara, 2023
 
 Work experience
 ======
-* June 2024 - Present: Visiting Student
+* Aug 2025 - Present: PhD Student
   * Chili Lab @ Rice University
-  * Supervisor: [Prof.Hanjie Chen](https://hanjiechen.github.io/)
+  * Advisor: [Prof. Hanjie Chen](https://hanjiechen.github.io/)
 
-* Sept 2022 - Present: Research Assistant
+* June 2024 - Aug 2025: Visiting Student
+  * Chili Lab @ Rice University
+  * Supervisor: [Prof. Hanjie Chen](https://hanjiechen.github.io/)
+
+* Sept 2022 - June 2024: Research Assistant
   * Sports Analytics
-  * Supervisor: [Prof.Yuan-Fang Wang](https://engineering.ucsb.edu/people/yuan-fang-wang), [Prof.Weining Shen](https://faculty.sites.uci.edu/weinings/)
+  * Supervisor: [Prof. Yuan-Fang Wang](https://engineering.ucsb.edu/people/yuan-fang-wang), [Prof. Weining Shen](https://faculty.sites.uci.edu/weinings/)
   
 * Jun 2022 - Sept 2022: Summer Intern
   * Data Scientist Intern @ Uber
