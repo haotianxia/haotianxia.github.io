@@ -54,5 +54,5 @@ I earned my M.S. in Statistics at the University of California, Irvine, advised 
     <p>I started playing volleyball at the age of seven and later competed as an NCAA Division I student-athlete on an athletic scholarship with the nationally top-3-ranked UCSB Men's Volleyball team, winning the 2021 Big West Conference title. I am also recognized as a National Level Athlete (国家一级运动员) in China.</p>
     <p>If you'd like to talk about multimodal reasoning or sports analytics, feel free to <a href="mailto:{{ site.author.email }}">email me</a>.</p>
   </div>
-  <img class="beyond__photo" src="{{ base_path }}/images/voll.jpg" alt="Haotian Xia going up for a spike in a volleyball match" loading="lazy">
+  <img class="beyond__photo" src="{{ base_path }}/images/voll.JPG" alt="Haotian Xia going up for a spike in a volleyball match" loading="lazy">
 </div>
