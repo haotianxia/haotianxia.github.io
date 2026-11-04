@@ -1,0 +1,158 @@
+# All publications live here. The home page shows entries with `selected: true`;
+# /publications/ shows everything, grouped by `group` (preprint | conference | other)
+# in the order written below.
+#
+# Fields
+#   title, authors, venue   required. Use * after a name for equal contribution;
+#                           "Haotian Xia" is bolded automatically.
+#   tag                     short badge, e.g. "ICLR 2026"
+#   note                    highlighted honor, e.g. "Oral"
+#   selected, teaser, blurb home-page card (teaser is a path under /images/)
+#   links                   list of {label, url}
+
+- title: "Perception Before Reasoning: Dynamic Latent Reasoning for Video Understanding and Question Answering"
+  authors: "Haotian Xia, Zilin Xiao, Junbo Zou, Vicente Ordonez, Hanjie Chen"
+  venue: "arXiv preprint, 2026"
+  tag: "Preprint"
+  group: preprint
+  selected: true
+  teaser: "pubs/dylar.jpg"
+  blurb: "DyLaR grounds a question in a short set of perception latents, then decides whether reasoning latents are needed. It improves accuracy on video benchmarks while generating fewer than 20 tokens per query."
+  links:
+    - {label: "arXiv", url: "https://arxiv.org/abs/2608.04124"}
+
+- title: "DeepSport: A Multimodal Large Language Model for Comprehensive Sports Video Reasoning via Agentic Reinforcement Learning"
+  authors: "Junbo Zou*, Haotian Xia*, Zhen Ye, Shengjie Zhang, Christopher Lai, Vicente Ordonez, Weining Shen, Hanjie Chen"
+  venue: "arXiv preprint, 2025"
+  tag: "Preprint"
+  group: preprint
+  selected: true
+  teaser: "pubs/deepsport.jpg"
+  blurb: "An end-to-end multimodal model that selects frames as it reasons, trained with a sports curriculum and then agentic reinforcement learning."
+  links:
+    - {label: "arXiv", url: "https://arxiv.org/abs/2511.12908"}
+
+- title: "FACTS: Fine-Grained Action Classification for Tactical Sports"
+  authors: "Christopher Lai, Jason Mo, Haotian Xia, Yuan-fang Wang"
+  venue: "arXiv preprint, 2024"
+  tag: "Preprint"
+  group: preprint
+  links:
+    - {label: "arXiv", url: "https://arxiv.org/abs/2412.16454"}
+
+- title: "Language and Multimodal Models in Sports: A Survey of Datasets and Applications"
+  authors: "Haotian Xia, Zhengbang Yang, Yun Zhao, Yuqing Wang, Jingxi Li, Rhys Tracy, Zhuangdi Zhu, Yuan-fang Wang, Hanjie Chen, Weining Shen"
+  venue: "arXiv preprint, 2024"
+  tag: "Preprint"
+  group: preprint
+  links:
+    - {label: "arXiv", url: "https://arxiv.org/abs/2406.12252"}
+
+- title: "SportR: A Benchmark for Multimodal Large Language Model Reasoning in Sports"
+  authors: "Haotian Xia*, Haonan Ge*, Junbo Zou*, Hyun Woo Choi, Xuebin Zhang, Danny Suradja, Botao Rui, Ethan Tran, Wendy Jin, Zhen Ye, Xiyang Lin, Christopher Lai, Shengjie Zhang, Junwen Miao, Shichao Chen, Rhys Tracy, Vicente Ordonez, Weining Shen, Hanjie Chen"
+  venue: "The Fourteenth International Conference on Learning Representations (ICLR), Rio de Janeiro, Brazil, 2026"
+  tag: "ICLR 2026"
+  group: conference
+  selected: true
+  teaser: "pubs/sportr.jpg"
+  blurb: "A multi-sport image and video benchmark with human-authored chain-of-thought annotations and bounding boxes, testing reasoning from infraction identification to penalty prediction."
+  links:
+    - {label: "Paper", url: "https://proceedings.iclr.cc/paper_files/paper/2026/hash/27089d0a5ad91f234693d9aa12e83584-Abstract-Conference.html"}
+    - {label: "arXiv", url: "https://arxiv.org/abs/2511.06499"}
+    - {label: "Code", url: "https://github.com/chili-lab/SportR"}
+
+- title: "VisFinEval: A Scenario-Driven Chinese Multimodal Benchmark for Holistic Financial Understanding"
+  authors: "Zhaowei Liu*, Xin Guo*, Haotian Xia*, Lingfeng Zeng, Fangqi Lou, Jinyi Niu, Mengping Li, Qi Qi, Jiahuan Li, Wei Zhang, Yinglong Wang, Weige Cai, Weining Shen, Liwen Zhang"
+  venue: "The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP), Suzhou, China, 2025"
+  tag: "EMNLP 2025"
+  group: conference
+  links:
+    - {label: "Paper", url: "https://aclanthology.org/2025.emnlp-main.1229/"}
+    - {label: "arXiv", url: "https://arxiv.org/abs/2508.09641"}
+    - {label: "Code", url: "https://github.com/SUFE-AIFLM-Lab/VisFinEval"}
+
+- title: "SPORTU: A Comprehensive Sports Understanding Benchmark for Multimodal Large Language Models"
+  authors: "Haotian Xia, Zhengbang Yang, Junbo Zou, Rhys Tracy, Yuqing Wang, Chi Lu, Christopher Lai, Yanjun He, Xun Shao, Zhuoqing Xie, Yuan-fang Wang, Weining Shen, Hanjie Chen"
+  venue: "The Thirteenth International Conference on Learning Representations (ICLR), Singapore, 2025"
+  tag: "ICLR 2025"
+  group: conference
+  selected: true
+  teaser: "pubs/sportu.jpg"
+  blurb: "A text and slow-motion video benchmark for multi-level sports reasoning, from basic rules to hard, knowledge-dependent video tasks."
+  links:
+    - {label: "Paper", url: "https://proceedings.iclr.cc/paper_files/paper/2025/hash/49c1879ae366644ce2c17fb39ddea982-Abstract-Conference.html"}
+    - {label: "arXiv", url: "https://arxiv.org/abs/2410.08474"}
+    - {label: "Code", url: "https://github.com/chili-lab/SPORTU"}
+
+- title: "FinEval: A Chinese Financial Domain Knowledge Evaluation Benchmark for Large Language Models"
+  authors: "Xin Guo*, Haotian Xia*, Zhaowei Liu*, Hanyang Cao, Zhi Yang, Zhiqiang Liu, Sizhe Wang, Jinyi Niu, Chuqi Wang, Yanhui Wang, Xiaolong Liang, Xiaoming Huang, Bing Zhu, Zhongyu Wei, Yun Chen, Weining Shen, Liwen Zhang"
+  venue: "2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL), Albuquerque, New Mexico, 2025"
+  tag: "NAACL 2025"
+  group: conference
+  links:
+    - {label: "Paper", url: "https://aclanthology.org/2025.naacl-long.318/"}
+    - {label: "arXiv", url: "https://arxiv.org/abs/2308.09975"}
+
+- title: "SportQA: A Benchmark for Sports Understanding in Large Language Models"
+  authors: "Haotian Xia, Zhengbang Yang, Yuqing Wang, Rhys Tracy, Yun Zhao, Dongdong Huang, Zezhi Chen, Yan Zhu, Yuan-fang Wang, Weining Shen"
+  venue: "2024 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), Mexico City, Mexico, 2024"
+  tag: "NAACL 2024"
+  note: "Oral"
+  group: conference
+  links:
+    - {label: "Paper", url: "https://aclanthology.org/2024.naacl-long.283/"}
+    - {label: "arXiv", url: "https://arxiv.org/abs/2402.15862"}
+    - {label: "Code", url: "https://github.com/haotianxia/SportQA"}
+
+- title: "VREN: Volleyball Rally Dataset with Expression Notation Language"
+  authors: "Haotian Xia*, Rhys Tracy*, Yun Zhao, Erwan Fraisse, Yuan-Fang Wang, Linda Petzold"
+  venue: "2022 IEEE International Conference on Knowledge Graph (ICKG), Orlando, Florida, 2022"
+  tag: "ICKG 2022"
+  group: conference
+  links:
+    - {label: "arXiv", url: "https://arxiv.org/abs/2209.13846"}
+    - {label: "Code", url: "https://github.com/haotianxia/VREN"}
+
+- title: "SportD: How Do VLMs Physically Strategize?"
+  authors: "Jasin Cekinmez*, Addison J. Wu*, Haotian Xia, Kyumin Andrew Shim, Anay Putty, Jinglin Xiao, Zhuohan Liu, Leo Liu, Weining Shen"
+  venue: "NeurIPS 2026 Workshop on Physical Understanding (PhysUnderstand)"
+  tag: "NeurIPS 2026 Workshop"
+  note: "Oral"
+  group: other
+  links:
+    - {label: "arXiv", url: "https://arxiv.org/abs/2607.14616"}
+
+- title: "Sports Intelligence: Assessing the Sports Understanding Capabilities of Language Models Through Question Answering from Text to Video"
+  authors: "Zhengbang Yang*, Haotian Xia*, Jingxi Li, Zezhi Chen, Zhuangdi Zhu, Weining Shen"
+  venue: "Electronics, Vol. 14, No. 3, Article 461, 2025"
+  tag: "Electronics 2025"
+  group: other
+  links:
+    - {label: "Paper", url: "https://www.mdpi.com/2079-9292/14/3/461"}
+    - {label: "arXiv", url: "https://arxiv.org/abs/2406.14877"}
+
+- title: "Advanced Volleyball Stats for All Levels: Automatic Setting Tactic Detection and Classification with a Single Camera"
+  authors: "Haotian Xia, Rhys Tracy, Yun Zhao, Yuqing Wang, Yuan-Fang Wang, Weining Shen"
+  venue: "2023 IEEE International Conference on Data Mining Workshops (ICDMW), Shanghai, China, 2023"
+  tag: "ICDMW 2023"
+  group: other
+  links:
+    - {label: "Paper", url: "https://doi.org/10.1109/ICDMW60847.2023.00179"}
+    - {label: "arXiv", url: "https://arxiv.org/abs/2309.14753"}
+
+- title: "Graph Encoding and Neural Network Approaches for Volleyball Analytics: From Game Outcome to Individual Play Predictions"
+  authors: "Rhys Tracy, Haotian Xia, Alex Rasla, Yuan-Fang Wang, Ambuj Singh"
+  venue: "KDD 2023 Workshop on Data Science and AI for Sports, 2023"
+  tag: "KDD 2023 Workshop"
+  group: other
+  links:
+    - {label: "arXiv", url: "https://arxiv.org/abs/2308.11142"}
+
+- title: "Empirical Quantitative Analysis of COVID-19 Forecasting Models"
+  authors: "Yun Zhao, Yuqing Wang, Junfeng Liu, Haotian Xia, Zhenni Xu, Qinghang Hong, Zhiyang Zhou, Linda Petzold"
+  venue: "2021 IEEE International Conference on Data Mining Workshops (ICDMW), Workshop on Data Mining in Biomedical Informatics and Healthcare, 2021"
+  tag: "ICDMW 2021"
+  note: "Best Paper Award"
+  group: other
+  links:
+    - {label: "arXiv", url: "https://arxiv.org/abs/2110.00174"}

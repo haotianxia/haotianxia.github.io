@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Haotian Xia"
 title_separator          : "-"
 name                     : &name "Haotian Xia"
-description              : &description "personal description"
+description              : &description "Haotian (Eric) Xia, Ph.D. student at Rice University working on multimodal understanding and reasoning."
 url                      : https://haotianxia.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "haotianxia/haotianxia.github.io"
@@ -21,14 +21,14 @@ repository               : "haotianxia/haotianxia.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "avatar.jpg"
   name             : "Haotian Xia"
   pronouns         : # example: ""  
-  bio              : "PhD Student at Rice University"
+  bio              : "CS Ph.D. Student at Rice University"
   location         : "Houston, TX"
   employer         : "Rice University"
   uri              : # URL
-  email            : "xiah6@uci.edu" 
+  email            : "hx50@rice.edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "haotianxia"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

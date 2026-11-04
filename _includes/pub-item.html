@@ -1,0 +1,15 @@
+{%- assign p = include.pub -%}
+{%- assign show_teaser = include.card and p.teaser -%}
+<li class="pub{% if show_teaser %} pub--card{% endif %}">
+{%- if show_teaser -%}<div class="pub__teaser"><img src="{{ base_path }}/images/{{ p.teaser }}" alt="Figure from {{ p.title | split: ':' | first }}" loading="lazy"></div>{%- endif -%}
+<div class="pub__body">
+<div class="pub__title">{% if p.links %}<a href="{{ p.links[0].url }}">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}</div>
+<div class="pub__authors">{{ p.authors | replace: "Haotian Xia", "<strong>Haotian Xia</strong>" | replace: "*", "<sup>*</sup>" }}</div>
+{%- if include.card -%}
+<div class="pub__blurb">{{ p.blurb }}</div>
+{%- else -%}
+<div class="pub__venue">{{ p.venue }}</div>
+{%- endif -%}
+<div class="pub__meta"><span class="tag">{{ p.tag }}</span>{% if p.note %}<span class="tag tag--award">{{ p.note }}</span>{% endif %}{% for l in p.links %}<a class="pub__link" href="{{ l.url }}">{{ l.label }}</a>{% endfor %}</div>
+</div>
+</li>
