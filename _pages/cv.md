@@ -18,6 +18,11 @@ redirect_from:
   * Advisor: [Prof. Weining Shen](https://faculty.sites.uci.edu/weinings/)
 * **B.S. in Computer Science**, Distinction in the Major, University of California, Santa Barbara, Sep 2018 – Jun 2023
 
+## Honors and Awards
+
+* **[Andrew Ladd Memorial Excellence in Computer Science Graduate Fellowship](https://kenkennedy.rice.edu/fellowships/andrew-ladd)**, Ken Kennedy Institute, Rice University, 2026/27
+* **Best Paper Award**, ICDM 2021 Workshop on Data Mining in Biomedical Informatics and Healthcare
+
 ## Research Experience
 
 * **Chili Lab, Rice University**, Jun 2024 – Present

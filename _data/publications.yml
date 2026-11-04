@@ -99,6 +99,9 @@
   tag: "NAACL 2024"
   note: "Oral"
   group: conference
+  selected: true
+  teaser: "pubs/sportqa.jpg"
+  blurb: "A benchmark of over 70,000 multiple-choice sports questions at three difficulty levels, from factual recall to complex scenario analysis, where language models still lag behind humans."
   links:
     - {label: "Paper", url: "https://aclanthology.org/2024.naacl-long.283/"}
     - {label: "arXiv", url: "https://arxiv.org/abs/2402.15862"}
